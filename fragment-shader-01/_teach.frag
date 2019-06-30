@@ -23,7 +23,7 @@ uniform vec2 mouse;
 void main() {
   // position
   // 1. gl_FragCoord.xy = left bottom start (0 ~ resolutin)
-  // 2. center start (-resolutin/2 ~ resolutin/2)
+  // 2. center start (-resolutin ~ resolutin)
   // 3. long side (-1 ~ 1)
   vec2 p =
     (gl_FragCoord.xy * 2. - resolution)
@@ -68,7 +68,7 @@ void main() {
   // // d = floor(abs(p.x));
   // // d = abs(length(p)); // circle
   // // d = max(abs(p.x), abs(p.y)); // rect
-  // // d = floor(d * 10.) * .1; // step
+  // // d = floor(d * 10.) / 10.; // step
   // c = vec3(d);
 
   // // Circle glow

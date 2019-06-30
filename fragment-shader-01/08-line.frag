@@ -17,7 +17,7 @@ vec3 hsv(float h, float s, float v){
 void main() {
   // position
   // 1. gl_FragCoord.xy = left bottom start (0 ~ resolutin)
-  // 2. center start (-resolutin/2 ~ resolutin/2)
+  // 2. center start (-resolutin ~ resolutin)
   // 3. long side (-1 ~ 1)
   vec2 p =
     (gl_FragCoord.xy * 2. - resolution)

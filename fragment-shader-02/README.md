@@ -21,3 +21,6 @@ https://qiita.com/shimacpyon/items/d15dee44a0b8b3883f76
 
 ### 色々なノイズ
 https://github.com/stegu/webgl-noise/tree/master/src
+
+## シンプルな炎の作り方の参考
+https://twitter.com/joegatling/status/1200145991426424833

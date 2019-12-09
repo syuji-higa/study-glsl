@@ -11,6 +11,9 @@ https://github.com/syuji-higa/study-glsl/tree/master/fragment-shader-01
 ## 火の玉の参考
 https://www.google.com/search?q=%E7%81%AB%E3%81%AE%E7%8E%89&sxsrf=ACYBGNS6VtSt3PT4UKh8c5QOKMiUf80jKg:1574330167505&source=lnms&tbm=isch&sa=X&ved=2ahUKEwisuZLzhPvlAhVSM94KHZ6HC2UQ_AUoAXoECA0QAw&biw=1420&bih=746#imgrc=_
 
+## 図・グラフ
+https://www.geogebra.org/m/kgaxpbzg
+
 ## ノイズについて
 - https://thebookofshaders.com/11/?lan=jp
 - http://nn-hokuson.hatenablog.com/entry/2017/01/27/195659
